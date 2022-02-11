@@ -1,0 +1,36 @@
+/**/
+
+h1 {
+  text-align: center;
+}
+.form-group{
+    margin-left: 20px;
+}
+
+#cep {
+    margin-left: 15px;
+}
+
+#cidade{
+  margin-top: 6px;
+  margin-bottom: 6px;
+  
+  
+ 
+}
+#estado{
+  margin-top: 6px;
+  margin-bottom: 6px;
+ 
+}
+#bairro{
+  margin-top: 7px;
+  margin-bottom: 6px;
+  margin-left: 5px;
+ 
+}
+#rua{
+  margin-top: 7px;
+  margin-bottom: 6px;
+  margin-left:20px;
+}
