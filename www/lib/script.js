@@ -17,7 +17,7 @@ buscar.addEventListener("click", function(){
  })
  })
 })
-
+}
 function mapa(lat, long){
     L.mapquest.key = 'VQitdAURRgsi46QRwiNIGcKgw08yreH0';
 
@@ -44,4 +44,3 @@ function mapa(lat, long){
 
     navigator.geolocation.getCurrentPosition(onSuccess, onError);
     });
-}
